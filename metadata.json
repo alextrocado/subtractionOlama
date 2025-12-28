@@ -1,0 +1,7 @@
+{
+  "name": "Ollama Subtraction by Decomposition",
+  "description": "Educational app to learn subtraction using the Partitioning/Decomposition Method.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
